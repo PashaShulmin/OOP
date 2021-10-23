@@ -1,0 +1,39 @@
+Before deletion:
+1: It is a plain: speed = 78; distance = 57; time = 0.730769; range = 100; capacity = 99
+2: It is a train: speed = 18; distance = 62; time = 3.44444; number of railway carriages = 92
+3: It is a plain: speed = 29; distance = 50; time = 1.72414; range = 83; capacity = 78
+4: It is a plain: speed = 59; distance = 36; time = 0.610169; range = 59; capacity = 92
+5: It is a train: speed = 97; distance = 95; time = 0.979381; number of railway carriages = 30
+6: It is a ship: speed = 14; distance = 54; time = 3.85714; displacement = 84; type of ship is tanker
+7: It is a train: speed = 95; distance = 75; time = 0.789474; number of railway carriages = 55
+8: It is a ship: speed = 83; distance = 68; time = 0.819277; displacement = 57; type of ship is tow
+9: It is a plain: speed = 96; distance = 17; time = 0.177083; range = 94; capacity = 99
+10: It is a train: speed = 92; distance = 25; time = 0.271739; number of railway carriages = 78
+11: It is a plain: speed = 93; distance = 90; time = 0.967742; range = 39; capacity = 66
+12: It is a train: speed = 43; distance = 2; time = 0.0465116; number of railway carriages = 20
+13: It is a train: speed = 66; distance = 75; time = 1.13636; number of railway carriages = 32
+14: It is a ship: speed = 2; distance = 77; time = 38.5; displacement = 86; type of ship is liner
+15: It is a plain: speed = 59; distance = 8; time = 0.135593; range = 6; capacity = 77
+16: It is a plain: speed = 58; distance = 67; time = 1.15517; range = 48; capacity = 11
+17: It is a train: speed = 75; distance = 91; time = 1.21333; number of railway carriages = 51
+18: It is a train: speed = 49; distance = 14; time = 0.285714; number of railway carriages = 3
+19: It is a plain: speed = 35; distance = 69; time = 1.97143; range = 46; capacity = 59
+20: It is a ship: speed = 87; distance = 26; time = 0.298851; displacement = 11; type of ship is liner
+After deletion:
+1: It is a plain: speed = 78; distance = 57; time = 0.730769; range = 100; capacity = 99
+2: It is a plain: speed = 29; distance = 50; time = 1.72414; range = 83; capacity = 78
+3: It is a plain: speed = 59; distance = 36; time = 0.610169; range = 59; capacity = 92
+4: It is a train: speed = 97; distance = 95; time = 0.979381; number of railway carriages = 30
+5: It is a train: speed = 95; distance = 75; time = 0.789474; number of railway carriages = 55
+6: It is a ship: speed = 83; distance = 68; time = 0.819277; displacement = 57; type of ship is tow
+7: It is a plain: speed = 96; distance = 17; time = 0.177083; range = 94; capacity = 99
+8: It is a train: speed = 92; distance = 25; time = 0.271739; number of railway carriages = 78
+9: It is a plain: speed = 93; distance = 90; time = 0.967742; range = 39; capacity = 66
+10: It is a train: speed = 43; distance = 2; time = 0.0465116; number of railway carriages = 20
+11: It is a train: speed = 66; distance = 75; time = 1.13636; number of railway carriages = 32
+12: It is a plain: speed = 59; distance = 8; time = 0.135593; range = 6; capacity = 77
+13: It is a plain: speed = 58; distance = 67; time = 1.15517; range = 48; capacity = 11
+14: It is a train: speed = 75; distance = 91; time = 1.21333; number of railway carriages = 51
+15: It is a train: speed = 49; distance = 14; time = 0.285714; number of railway carriages = 3
+16: It is a plain: speed = 35; distance = 69; time = 1.97143; range = 46; capacity = 59
+17: It is a ship: speed = 87; distance = 26; time = 0.298851; displacement = 11; type of ship is liner

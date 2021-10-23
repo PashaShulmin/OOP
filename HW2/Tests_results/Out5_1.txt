@@ -1,0 +1,14 @@
+Filled container:
+Container contains 12 elements.
+1: It is a train: speed = 94; distance = 400; time = 4.25532; number of railway carriages = 53
+2: It is a ship: speed = 68; distance = 66; time = 0.970588; displacement = 24; type of ship is tow
+3: It is a train: speed = 75; distance = 91.8; time = 1.224; number of railway carriages = 51
+4: It is a plain: speed = 59; distance = 36; time = 0.610169; range = 59; capacity = 92
+5: It is a train: speed = 97; distance = 95.5; time = 0.984536; number of railway carriages = 30
+6: It is a ship: speed = 14; distance = 54.001; time = 3.85721; displacement = 84; type of ship is tanker
+7: It is a train: speed = 49; distance = 14.46; time = 0.295102; number of railway carriages = 3
+8: It is a plain: speed = 35; distance = 69; time = 1.97143; range = 46; capacity = 59
+9: It is a ship: speed = 87; distance = 26; time = 0.298851; displacement = 11; type of ship is liner
+10: It is a plain: speed = 90; distance = 76.6; time = 0.851111; range = 55; capacity = 92
+11: It is a train: speed = 14; distance = 88.8; time = 6.34286; number of railway carriages = 4
+12: It is a plain: speed = 6; distance = 36.1; time = 6.01667; range = 70; capacity = 82
